@@ -16,7 +16,7 @@ body {
         url("images/laptop.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
-    color: #faf8f8;
+    color: #222;
 
 }
 
@@ -259,12 +259,12 @@ body {
 
     margin-bottom: 20px;
 
-    color: white;
+    color: black;
 }
 
 
 .description {
-    color: white;
+    color: black;
 
     line-height: 1.7;
 
@@ -322,7 +322,7 @@ body {
 
 
 .cont {
-    color: white;
+    color: #0052d9;
 
     border: 1px solid #ddd;
 }
@@ -374,7 +374,7 @@ body {
 .section > p:not(.section-small) {
     max-width: 750px;
 
-    color: white;
+    color: black;
 
     line-height: 1.8;
 
@@ -399,7 +399,7 @@ body {
 .card {
     padding: 35px 25px;
 
-    border: 1px solid #eeeeee;
+    border: 1px solid #7c7b7b;
 
     border-radius: 10px;
 
@@ -432,7 +432,7 @@ body {
 
 
 .card p {
-    color: white;
+    color: #555;
 
     line-height: 1.6;
 
@@ -487,7 +487,7 @@ body {
 }
 
 
-/*  TIMELINE  */
+/*  EDUCATION  */
 
 .timeline-item {
     border-left: 3px solid #1769ff;
@@ -513,7 +513,7 @@ body {
 
 
 .timeline-item p {
-    color: white;
+    color: black;
 
     line-height: 1.7;
 }
@@ -526,7 +526,7 @@ body {
 
     padding: 30px;
 
-    border: 1px solid #eee;
+    border: 1px solid #8e8c8c;
 
     border-radius: 10px;
 
@@ -549,7 +549,7 @@ body {
 
 
 .experience-box p {
-    color: white;
+    color: black;
 
     line-height: 1.7;
 
@@ -623,7 +623,7 @@ body {
 
 
 .project-content p {
-    color: white;
+    color: black;
 
     font-size: 14px;
 
@@ -652,12 +652,12 @@ body {
 .contact-info p {
     margin: 15px 0;
 
-    color: white;
+    color: #1769ff;
 }
 
 .contact-info a{
     text-decoration: none;
-    color: white;
+    color: black;
 }
 
 
